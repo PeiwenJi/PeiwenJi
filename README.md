@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div> 
 
 <div align="center">
-  <img src="https://github.com/PeiwenJi/PeiwenJi/blob/main/1.png" height="320">
+  <img src="https://github.com/PeiwenJi/PeiwenJi/blob/main/1.png" height="200">
 </div>
 
 ## About me
