@@ -46,8 +46,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiwenJi&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PeiwenJi&column=8"/>
-
 ## 😐 But I'm still wondering...
 ```rust
 struct AboutMe;
@@ -64,4 +62,4 @@ trait OpenSource {
 
 impl OpenSource for AboutMe {}
 ```
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/PeiwenJi/PeiwenJi/output/github-contribution-grid-snake.svg)
