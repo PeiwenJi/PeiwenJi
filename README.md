@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/PeiwenJi" target="_blank">
-    <img src=https://img.shields.io/badge/-Github-34644f?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/-Github-eb5143?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> 
   <a href="https://peiwenji.github.io" target="_blank">
-    <img src=https://img.shields.io/badge/-Blog-9892c9?style=for-the-badge&logoColor=white alt=mail style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/-Blog-65aab1?style=for-the-badge&logoColor=white alt=mail style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:jipw@mail.cbi.pku.edu.cn" target="_blank">
-    <img src=https://img.shields.io/badge/-Email-e85356?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/-Email-7c7890?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
   </a>
 </div> 
