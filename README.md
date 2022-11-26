@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
 </div> 
 
-<div align="center">
+<div align="center" style="margin:10px">
   <img src="https://github.com/PeiwenJi/PeiwenJi/blob/main/2.png" height="300">
 </div>
 
