@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/PeiwenJi" target="_blank">
-    <img src=https://img.shields.io/badge/-Github-65aab13?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/-Github-080808?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> 
   <a href="https://peiwenji.github.io" target="_blank">
     <img src=https://img.shields.io/badge/-Blog-eb5143?style=for-the-badge&logoColor=white alt=mail style="margin-bottom: 5px;" />
