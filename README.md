@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/PeiwenJi" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> 
-  <a href="https://github.com/PeiwenJi" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=Blog&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <a href="https://peiwenji.github.io" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge alt=Blog style="margin-bottom: 5px;" />
   </a>
 </div> 
