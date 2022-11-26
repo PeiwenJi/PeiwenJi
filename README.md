@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
+<p align="center">
   Hey👋, I'm Parisa!
-</h1>
+</p>
 
 <div align="center">
   <a href="https://github.com/PeiwenJi" target="_blank">
