@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   </a>
 </div> 
 
-<div align="center" style="margin:10px">
-  <img src="https://github.com/PeiwenJi/PeiwenJi/blob/main/2.png" height="300">
+<div align="center">
+  <img src="https://github.com/PeiwenJi/PeiwenJi/blob/main/2.png" height="300" style="margin:50px">
 </div>
 
 ## About me
