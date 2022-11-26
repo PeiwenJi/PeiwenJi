@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ## Coding Time
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=PeiwenJi&theme=calm&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiwenJi&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeiwenJi&theme=calm&langs_count=6&layout=compact" />
 </div>
