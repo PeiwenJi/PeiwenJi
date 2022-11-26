@@ -22,9 +22,9 @@ Here are some ideas to get you started:
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> 
   <a href="mailto:jipw@mail.cbi.pku.edu.cn" target="_blank">
-    <img src=https://img.shields.io/badge/-Email-c14438?style=for-the-badge&&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
   </a>
   <a href="https://peiwenji.github.io" target="_blank">
-    <img src=https://img.shields.io/badge/-Blog-c14438?style=for-the-badge&&logo=About.me&logoColor=white alt=mail style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/-Blog-9892c9?style=for-the-badge&logoColor=white alt=mail style="margin-bottom: 5px;" />
   </a>
 </div> 
