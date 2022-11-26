@@ -28,3 +28,20 @@ Here are some ideas to get you started:
     <img src=https://img.shields.io/badge/-Email-4abec9?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
   </a>
 </div> 
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      - 💻 I’m currently studying at [Peking University](https://www.pku.edu.cn/).  
+      - 💗 My major is computational biology. I’m currently studying deep learning models.  
+      - 🤩 My career ambition is to become a scientist. I like to explore the unknown.
+      - 🎼 In addition, I love music and art, such as 🎻🎧🏸🏊‍♀️💃🥊🎨... Hope you share the same hobby～
+      - ⚡ Fun fact: I am afraid of dogs🤨😣😰🤫   
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+      </div>  
+    </td>
+  </tr>
+</table>  
