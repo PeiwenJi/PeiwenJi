@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  Hey👋, I'm Parisa!
+  Hi👋, I'm Parisa!
 </h1>
 
 <div align="center">
