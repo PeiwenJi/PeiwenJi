@@ -29,6 +29,10 @@ Here are some ideas to get you started:
   </a>
 </div> 
 
+<div align="center">
+  <img src="https://github.com/PeiwenJi/PeiwenJi/blob/main/1.png" height="320">
+</div>
+
 ## About me
 - 💻 I’m currently studying at [Peking University](https://www.pku.edu.cn/).  
 - 💗 My major is computational biology. I’m currently studying deep learning models.  
